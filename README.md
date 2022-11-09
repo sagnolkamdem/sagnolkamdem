@@ -31,13 +31,14 @@ Aware of the rapid evolution and the constant release of new technologies, I do 
 
 #### Backend framework
 
-![Django](./public/images/backend/Django.svg) ![DjangoRestFramework](./public/images/backend/drf.png)
+![Django](./public/images/backend/Django.png) ![DjangoRestFramework](./public/images/backend/drf.png)
 
 #### Others concepts
 
-![Git](./public/images/concepts/git.png) ![Redux](./public/images/concepts/redux.png) ![Ngrx](./public/images/concepts/ngrx.png![Markdown](./public/images/concepts/markdown.png) ![Sass](./public/images/concepts/sass.png) ![Angular Material](./public/images/concepts/material.png) ![Tailwindcss](./public/images/concepts/Tailwindcss.png)
+![Git](./public/images/concepts/git.png) ![Redux](./public/images/concepts/redux.png) ![Ngrx](./public/images/concepts/ngrx.png) ![Markdown](./public/images/concepts/markdown.png) ![Sass](./public/images/concepts/sass.png) ![Angular Material](./public/images/concepts/material.png) ![Tailwindcss](./public/images/concepts/Tailwindcss.png)
 
 ### Contact me
 
-Mail: **sagnolkamdem721@gmail.com**
-Telegram: **https://t.me/sagnolkamdem**
+Mail: **sagnol kamdem**(![Sagnol Kamdem](mailto:sagnolkamdem721@gmail.com))
+
+Telegram: **sagnol kamdem**(![Sagnol Kamdem](https://t.me/sagnolkamdem))
