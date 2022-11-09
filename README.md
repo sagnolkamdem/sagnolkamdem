@@ -24,6 +24,4 @@ Aware of the rapid evolution and the constant release of new technologies, I do 
 
 ### Contact me 📫
 
-[![Mail](./public/images/backend/gmail.png)](mailto:sagnolkamdem721@gmail.com)
-
-[![Telegram](./public/images/backend/telegram.png)](https://t.me/sagnolkamdem)
+[![Mail](./public/images/backend/gmail.png)](mailto:sagnolkamdem721@gmail.com) [![Telegram](./public/images/backend/telegram.png)](https://t.me/sagnolkamdem)
