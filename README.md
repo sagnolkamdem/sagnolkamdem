@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Sagnol kamdem** young developer 😄, curious, particularly attracted by the UI ✨, I specialized in the front-end. I also have other assets, in particular my love for coding, which makes me capable and ready to take up new challenges ⚡.
+I am **Sagnol kamdem** 😄, I'm a good listener, curious and have excellent adaptability and problem-solving skills, which makes me capable and ready to take up new challenges ⚡. I enjoy working with a wide variety of people. As a volunteer, I stand out for my commitment to the community and my willingness to learn. My ultimate goal is to preserve the planet 🌎.
 
 ### About my knowledge 👨‍🎓
 
